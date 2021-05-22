@@ -10,7 +10,6 @@ I am a front-end focused developer 👨‍💻 living in Carmel, IN. I love all 
 - 💬 Ask me about `React`, `Redux`, `Storybook` or other front-end technologies
 - 📫 How to reach me: `kylepeeler at hey dot com`
 - 😄 Pronouns: `he/him`
-- 💊 Bipolar & ADHD
 - ⚡ Fun fact: I don't like cheese 🧀🙅‍♂️, unless it's on Pizza 🍕
 
 ## Connect with me
