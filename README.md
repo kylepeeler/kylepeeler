@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Kyle Peeler! 👋</h1>
 
-I am a front-end focused developer 👨‍💻 living in Carmel, IN. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences through the Web.
+I am a front-end focused developer 👨‍💻 living in Broad Ripple, IN. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences through the Web.
 
 - 💼 I'm currently helping to making contracting easy and painless [@Ironclad](https://www.ironclad.com)
 - ✏️ Learning in public at [kylepeeler.codes](https://kylepeeler.codes)
