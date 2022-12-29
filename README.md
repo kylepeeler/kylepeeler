@@ -35,6 +35,7 @@ I am a front-end focused developer 👨‍💻 living in San Diego, California. 
 ### Front-end
 
 <div align="center">
+  <img style="margin: 10px" src="./assets/vue.svg" alt="Vue" width="50">
   <img style="margin: 10px" src="./assets/react.svg" alt="React" width="50">
   <img style="margin: 10px" src="./assets/redux.svg" alt="Redux" width="50">
   <img style="margin: 10px" src="./assets/storybook.png" alt="Storybook" height="50" />
