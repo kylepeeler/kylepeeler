@@ -39,7 +39,7 @@ I am a front-end focused developer 👨‍💻 living in San Diego, California. 
   <img style="margin: 10px" src="./assets/react.svg" alt="React" width="50">
   <img style="margin: 10px" src="./assets/redux.svg" alt="Redux" width="50">
   <img style="margin: 10px" src="./assets/storybook.png" alt="Storybook" height="50" />
-  <img style="margin: 10px" src="./assets/flow.jpeg" alt="Flow" height="50" />
+  <img style="margin: 10px" src="./assets/flow-logo-svg-vector.svg" alt="Flow" height="50" />
   <img style="margin: 10px" src="./assets/backbone.svg" alt="Backbone" height="50" />
   <img style="margin: 10px" src="./assets/webpack.svg" alt="Backbone" height="50" />
   <img style="margin: 10px" src="./assets/javascript.svg" alt="Javascript" height="50" />
