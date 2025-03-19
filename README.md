@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Kyle Peeler! 👋</h1>
 
-I am a front-end focused developer 👨‍💻 living in San Diego, California. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences through the Web.
+I am a front-end focused developer 👨‍💻 living near Cupertino, California. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences through the Web.
 
 - 💼 I'm currently working on the Wallet & Payments team at  Apple!
 - ✏️ Learning in public at [kylepeeler.codes](https://kylepeeler.codes)
