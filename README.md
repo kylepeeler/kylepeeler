@@ -7,7 +7,7 @@ I am a front-end focused developer 👨‍💻 living near Cupertino, California
 - 🔭 Currently working on rebuilding my personal website + blog
 - 🌱 I’m currently learning `Vue.js` & `TypeScript`
 - 💬 Ask me about `React`, `Redux`, `Storybook` or other front-end technologies
-- 📫 How to reach me: `kylepeeler at hey dot com`
+- 📫 How to reach me: `me at kylepeeler dot com`
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: I don't like cheese 🧀🙅‍♂️, unless it's on Pizza 🍕
 
