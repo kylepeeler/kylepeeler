@@ -9,7 +9,8 @@ I am a front-end focused developer 👨‍💻 living near Cupertino, California
 - 💬 Ask me about `React`, `Redux`, `Storybook` or other front-end technologies
 - 📫 How to reach me: `me at kylepeeler dot com`
 - 😄 Pronouns: `he/him`
-- ⚡ Fun fact: You should turn this Advanced Data Protection on: https://support.apple.com/en-us/108756 ✅💙🦜
+- ⚡ Fun fact: You should turn Advanced Data Protection on if you use an 📱 https://support.apple.com/en-us/108756 ✅💙🦜
+- z
 
 ## Connect with me
 
