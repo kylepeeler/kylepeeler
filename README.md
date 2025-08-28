@@ -1,16 +1,13 @@
 <h1 align="center">Hey, I'm Kyle Peeler! 👋</h1>
 
-I am a front-end focused developer 👨‍💻 living near Cupertino, California. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences through the Web.
+I am a front-end focused developer 👨‍💻. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences through the Web.
 
-- 💼 I'm currently working on the Wallet & Payments team at  Apple!
 - ✏️ Learning in public at [kylepeeler.codes](https://kylepeeler.codes)
 - 🔭 Currently working on rebuilding my personal website + blog
 - 🌱 I’m currently learning `Vue.js` & `TypeScript`
 - 💬 Ask me about `React`, `Redux`, `Storybook` or other front-end technologies
 - 📫 How to reach me: `me at kylepeeler dot com`
 - 😄 Pronouns: `he/him`
-- ⚡ Fun fact: You should turn Advanced Data Protection on if you use an 📱 https://support.apple.com/en-us/108756 ✅💙🦜
-- z
 
 ## Connect with me
 
