@@ -28,10 +28,7 @@ I am a front-end focused developer 👨‍💻 living near Cupertino, California
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <br />
-  <a href="https://soundcloud.com/racedude target="_blank">
-    SoundCloud 🎶
-  </a>
-</div>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://soundcloud.com/racedude" data-iframely-url="//iframely.net/ss64WVVE?theme=dark"></a></div></div><script async src="//iframely.net/embed.js"></script></div>
 
 ## My Skill Set
 
