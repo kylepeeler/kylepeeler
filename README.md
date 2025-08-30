@@ -1,34 +1,47 @@
 <h1 align="center">Hey, I'm Kyle Peeler! 👋</h1>
 
-I am a front-end focused developer 👨‍💻 living near Cupertino, California. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences through the Web.
+I am a front-end focused developer 👨‍💻 living in San Jose, California. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences that are accessible ♿️ to everyone through the internet and technology.
 
 - 💼 I'm currently working on the Wallet & Payments team at  Apple!
-- ✏️ Learning in public at [kylepeeler.codes](https://kylepeeler.codes)
+- ✏️  Learning in public at [kylepeeler.codes](https://kylepeeler.codes)
 - 🔭 Currently working on rebuilding my personal website + blog
 - 🌱 I’m currently learning `Vue.js` & `TypeScript`
 - 💬 Ask me about `React`, `Redux`, `Storybook` or other front-end technologies
-- 📫 How to reach me: `me at kylepeeler dot com`
+- 📫 How to reach me: `me at kylepeeler dot codes`
 - 😄 Pronouns: `he/him`
-- ⚡ Fun fact: You should turn Advanced Data Protection on if you use an 📱 https://support.apple.com/en-us/108756 ✅💙🦜
-- z
+- ⚡ Fun fact: [You should turn Advanced Data Protection (ADP) on if you use an  product.](https://support.apple.com/en-us/108756)
+  - ⚠️  **WARNING:** If you use Advanced Data Protection, _you’re responsible for your data recovery_. Because  won’t have the keys required to recover your data, you’ll need to have a Recovery Contact or Recovery Key set up on your account. You can use these additional recovery methods to regain access to your data if you ever forget your password or lose access to your account.
+- 💙 Love always wins. 💙🆉🦜✅
 
 ## Connect with me
 
 <div align="center">
+
   <a href="https://github.com/kylepeeler" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/_kylepeeler" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+  <a href="https://x.com/_kylepeeler" target="_blank">
+    <img src=https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
   </a>
+
+  <a href="https://www.threads.com/@kylepeeler" target="_blank">
+    <img src=https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white alt=threads style="margin-bottom: 5px;" />
+  </a>
+
   <a href="https://dev.to/kylepeeler" target="_blank">
     <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
   </a>
+
   <a href="https://linkedin.com/in/kylepeeler" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <br />
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://soundcloud.com/racedude" data-iframely-url="//iframely.net/ss64WVVE?theme=dark"></a></div></div><script async src="//iframely.net/embed.js"></script></div>
+
+  <a href="https://soundcloud.com/racedude" target="_blank">
+    <img src=https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white alt=soundcloud style="margin-bottom: 5pm;" />
+  </a>
+
+<hr /> <!-- y u do dis :( c it's a comment not visible l0l-->
 
 ## My Skill Set
 
