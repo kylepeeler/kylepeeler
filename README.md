@@ -18,36 +18,38 @@ I am a front-end focused developer 👨‍💻 living in San Jose, California. I
 <div align="center">
 
   <a href="https://github.com/kylepeeler" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub (here)" style="margin: 8px;" />
   </a>
 
   <a href="https://x.com/_kylepeeler" target="_blank">
-    <img src=https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="My X" style="margin: 8px;" />
   </a>
 
   <a href="https://www.threads.com/@kylepeeler" target="_blank">
-    <img src=https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white alt=threads style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="My Threads" style="margin: 8px;" />
+  </a>
+
+  <a href="https://bsky.app/profile/kylepeeler.codes" target="_blank">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?&style=for-the-badge&logo=bluesky&logoColor=fff&color=0285FF" alt="My BlueSky" style="margin: 8px;" />
   </a>
 
   <a href="https://dev.to/kylepeeler" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="My DevTo" style="margin: 8px;" />
   </a>
 
   <a href="https://linkedin.com/in/kylepeeler" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" style="margin: 8px;" />
   </a>
 
   <a href="https://soundcloud.com/racedude" target="_blank">
-    <img src=https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white alt=soundcloud style="margin-bottom: 5pm;" />
+  <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="My SoundCloud" style="margin: 8pm;" />
   </a>
-
-<hr /> <!-- y u do dis :( c it's a comment not visible l0l-->
 
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
 
-### Front-end
+### Frontend
 
 <div align="center">
   <img style="margin: 10px" src="./assets/vue.svg" alt="Vue" width="50">
