@@ -41,7 +41,7 @@ I am a front-end focused developer 👨‍💻 living in San Jose, California. I
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" style="margin: 8px;" />
   </a>
 
-  <a href="https://soundcloud.com/racedude" target="_blank">
+  <a href="https://racedude54.xyz" target="_blank">
   <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="My SoundCloud" style="margin: 8pm;" />
   </a>
 
