@@ -5,6 +5,7 @@ I am a front-end focused developer 👨‍💻 living in San Jose, California. I
 - 💼 I'm currently working on the Wallet & Payments team at  Apple!
 - ✏️  Learning in public at [kylepeeler.codes](https://kylepeeler.codes)
 - 🔭 Currently working on rebuilding my personal website + blog
+- 🔊 [https://racedude54.xyz](https://racedude54.xyz)
 - 🌱 I’m currently learning `Vue.js` & `TypeScript`
 - 💬 Ask me about `React`, `Redux`, `Storybook` or other front-end technologies
 - 📫 How to reach me: `me at kylepeeler dot codes`
