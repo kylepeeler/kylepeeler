@@ -46,6 +46,8 @@ I am a front-end focused developer 👨‍💻 living in San Jose, California. I
   <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="My SoundCloud" style="margin: 8pm;" />
   </a>
 
+  [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/kylepeeler)
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
