@@ -2,13 +2,11 @@
 
 I am a front-end focused developer 👨‍💻 living in San Jose, California. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences that are accessible ♿️ to everyone through the internet and technology.
 
-- 💼 I'm currently working on the Wallet & Payments team at  Apple!
-- ✏️  Learning in public at [kylepeeler.codes](https://kylepeeler.codes)
+- ✏️ Learning in public at [kylepeeler.codes](https://kylepeeler.codes)
 - 🔭 Currently working on rebuilding my personal website + blog
-- 🔊 [https://racedude54.xyz](https://racedude54.xyz)
 - 🌱 I’m currently learning `Vue.js` & `TypeScript`
 - 💬 Ask me about `React`, `Redux`, `Storybook` or other front-end technologies
-- 📫 How to reach me: `me at kylepeeler dot codes`
+- 📫 How to reach me: `me at kylepeeler dot com`
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: [You should turn Advanced Data Protection (ADP) on if you use an  product.](https://support.apple.com/en-us/108756)
   - ⚠️  **WARNING:** If you use Advanced Data Protection, _you’re responsible for your data recovery_. Because  won’t have the keys required to recover your data, you’ll need to have a Recovery Contact or Recovery Key set up on your account. You can use these additional recovery methods to regain access to your data if you ever forget your password or lose access to your account.
@@ -42,20 +40,24 @@ I am a front-end focused developer 👨‍💻 living in San Jose, California. I
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" style="margin: 8px;" />
   </a>
 
-  <a href="https://racedude54.xyz" target="_blank">
+  <a href="https://soundcloud.com/racedude" target="_blank">
   <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="My SoundCloud" style="margin: 8pm;" />
   </a>
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
+<table>
+  
+<tr>
 
-### Frontend
-
+<td valign="top" width="33%">
 <div align="center">
-  <img style="margin: 10px" src="./assets/vue.svg" alt="Vue" width="50">
-  <img style="margin: 10px" src="./assets/react.svg" alt="React" width="50">
-  <img style="margin: 10px" src="./assets/redux.svg" alt="Redux" width="50">
+  
+### Client-side
+
+  <img style="margin: 10px" src="./assets/vue.svg" alt="Vue" width="50"/>
+  <img style="margin: 10px" src="./assets/react.svg" alt="React" width="50"/>
+  <img style="margin: 10px" src="./assets/redux.svg" alt="Redux" width="50"/>
   <img style="margin: 10px" src="./assets/storybook.png" alt="Storybook" height="50" />
   <img style="margin: 10px" src="./assets/flow-logo-svg-vector.svg" alt="Flow" height="50" />
   <img style="margin: 10px" src="./assets/backbone.svg" alt="Backbone" height="50" />
@@ -69,21 +71,24 @@ I am a front-end focused developer 👨‍💻 living in San Jose, California. I
 </td>
 
 <td valign="top" width="33%">
-
-### Backend
-
 <div align="center">
+
+### Server-side
+
   <img style="margin: 10px" src="./assets/mongodb.svg" alt="MongoDB" height="50" />
   <img style="margin: 10px" src="./assets/nodejs.svg" alt="NodeJS" height="50" />
   <img style="margin: 10px" src="./assets/express.svg" alt="Express" height="50" />
   <img style="margin: 10px" src="./assets/php.svg" alt="PHP" height="50" />
   <img style="margin: 10px" src="./assets/cplusplus.svg" alt="C Plus Plus" height="50" />
   <img style="margin: 10px" src="./assets/c.svg" alt="C" height="50" />
-</div></td><td valign="top" width="33%">
+</div>
+</td>
 
-### DevOps & Tools
-
+<td valign="top" width="33%">
 <div align="center">
+
+### DevOps && Tools
+
 <img style="margin: 10px" src="./assets/aws.svg" alt="AWS" height="50" />
 <img style="margin: 10px" src="./assets/git.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="./assets/bash.svg" alt="Bash" height="50" />
@@ -91,8 +96,11 @@ I am a front-end focused developer 👨‍💻 living in San Jose, California. I
 <img style="margin: 10px" src="./assets/docker.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="VS Code" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1088px-Vimlogo.svg.png" alt="Vim" height="50" />
+</div>
+</td>
 
-</div></td></tr></table>
+</tr>
+</table>
 
 ## Github Stats
 
