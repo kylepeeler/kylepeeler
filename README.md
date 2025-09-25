@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Kyle Peeler! 👋</h1>
 
-I am a front-end focused developer 👨‍💻 living in San Jose, California. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences that are accessible ♿️ to everyone through the internet and technology.
+I am a front-end focused developer 👨‍💻 living in in the Bay Area of California. I love all things React ⚛️, and am passionate about creating intuitive and beautiful user experiences that are accessible ♿️ to everyone through the internet and technology.
 
 - ✏️ Learning in public at [kylepeeler.codes](https://kylepeeler.codes)
 - 🔭 Currently working on rebuilding my personal website + blog
