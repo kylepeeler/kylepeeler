@@ -20,10 +20,6 @@ I am a front-end focused developer 👨‍💻 living in in the Bay Area of Cali
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub (here)" style="margin: 8px;" />
   </a>
 
-  <a href="https://x.com/_kylepeeler" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="My X" style="margin: 8px;" />
-  </a>
-
   <a href="https://www.threads.com/@kylepeeler" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="My Threads" style="margin: 8px;" />
   </a>
