@@ -8,9 +8,6 @@ I am a front-end focused developer 👨‍💻 living in in the Bay Area of Cali
 - 💬 Ask me about `React`, `Redux`, `Storybook` or other front-end technologies
 - 📫 How to reach me: `me at kylepeeler dot com`
 - 😄 Pronouns: `he/him`
-- ⚡ Fun fact: [You should turn Advanced Data Protection (ADP) on if you use an  product.](https://support.apple.com/en-us/108756)
-  - ⚠️  **WARNING:** If you use Advanced Data Protection, _you’re responsible for your data recovery_. Because  won’t have the keys required to recover your data, you’ll need to have a Recovery Contact or Recovery Key set up on your account. You can use these additional recovery methods to regain access to your data if you ever forget your password or lose access to your account.
-
 
 ## Connect with me
 
